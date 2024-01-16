@@ -7,11 +7,12 @@ Prerequisites:
 There is no special prerequisite. The model is coded in torch backend. The tsted versions of main packages are python 3.9 and torch 2.1.2+cu118     
 
 Installation and Use:
-1. upload the pack into your google drive
+1. upload the JMAPLE_master pack into your google drive
 2. open the Main.ipynb
 3. change the directory set after %cd to your current working directory
 4. set the device, mount the drive and run the codes
-- The model parameters can be changed in parser-ops modules
-- brief descriptions of different parts of the code are commented in the scripts
+- The model parameters can be changed in parser-ops module
+- Brief descriptions of different parts of the code are commented in the scripts
+- You can find pre-reconstructed memfa images in the recon folder and pre-reconstructed parameters in the parameters folder
   
  
