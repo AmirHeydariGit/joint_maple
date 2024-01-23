@@ -14,5 +14,7 @@ Installation and Use:
 - The model parameters can be changed in parser-ops module
 - Brief descriptions of different parts of the code are commented in the scripts
 - You can find pre-reconstructed memfa images in the recon folder and pre-reconstructed parameters in the parameters folder
+- The raw data can also be downloaded by this link:
+  https://www.dropbox.com/scl/fi/391sly8h5bw3vfuqdbsv6/raw_slice_25.mat?rlkey=hl4o1ataic4vezikdh6m4dgsx&dl=0 
   
  
